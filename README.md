@@ -19,6 +19,8 @@ Mediapipe / Dlib	Facial & Eye Landmark Detection
 PyAutoGUI	Mouse Control Automation
 NumPy	Array & Mathematical Computations
 Webcam	Real-time Eye Tracking Input
+
+
 📂 Project Structure
 Eye-Controlled-Mouse/
  ┣ 📂 src/                # Main project code
@@ -46,10 +48,6 @@ python src/main.py
 📐 Eye landmarks are detected using AI
 ➡️ Gaze direction controls cursor movement
 🖱️ Blink is converted into a mouse click
-
-📸 Demo (Add Your Image/GIF)
-
-(Add a screenshot or GIF showing the eye-controlled mouse in action)
 
 💡 Applications
 
